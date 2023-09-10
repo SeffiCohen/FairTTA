@@ -20,9 +20,10 @@ pip install sdv
 ```
 
 ## How To Run
-demo
 ```
-colab_demo.ipynb
+tta-fairml.ipynb
+
+Choose the dataset to run (RECRUIT_SEX, CREDIT_SEX, ADULT_SEX, COMPAS_SEX)
 ```
 train
 ```
