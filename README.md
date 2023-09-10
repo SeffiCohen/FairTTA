@@ -1,5 +1,5 @@
 # FairTTA: A Test-Time-Augmentation Method for ML Bias Mitigation
-This repository represents open-source research developed by [Nurit Cohen-Inger]  (https://www.linkedin.com/in/nurit-cohen-inger-265269b2/) and [Seffi Cohen](https://www.linkedin.com/in/seffi-cohen-11182046/)
+This repository represents open-source research developed by [Nurit Cohen-Inger] (https://www.linkedin.com/in/nurit-cohen-inger-265269b2/) and [Seffi Cohen] (https://www.linkedin.com/in/seffi-cohen-11182046/)
 
 <br>
 <div>
