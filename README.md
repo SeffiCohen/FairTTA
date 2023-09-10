@@ -13,12 +13,10 @@ git clone [https://github.com/SeffiCohen/FairTTA/]
 ```
 install requirements
 ```
-pip install -U easynmt
-pip install thai-segmenter
-pip install -U protobuf==3.20.0
-pip install -U iterative-stratification==0.1.7
-pip install -U transformers==4.21.2
-pip install -U tokenizers==0.12.1
+pip install fairlearn
+pip install category_encoders
+pip install sdv
+
 ```
 
 ## How To Run
