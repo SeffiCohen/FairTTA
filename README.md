@@ -30,5 +30,10 @@ pip install sdv
 tta-fairml.ipynb
 
 Choose the dataset to run (RECRUIT_SEX, CREDIT_SEX, ADULT_SEX, COMPAS_SEX)
+
+Fairtta_benchmarks.ipynb
+
+Choose the same dataset to run (RECRUIT_SEX, CREDIT_SEX, ADULT_SEX, COMPAS_SEX)
+
 ```
 
